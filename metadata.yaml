@@ -1,0 +1,33 @@
+_repo: My-Impressions-of-America_31110
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Asquith, Margot
+    aliases:
+    - Asquith, Margaret
+    - Asquith, Emma Alice Margaret
+    - Oxford and Asquith, Margot, Countess of
+    - Tennant, Emma Alice Margaret
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '1441'
+    url: http://www.gutenberg.org/2009/agents/1441
+    wikipedia: http://en.wikipedia.org/wiki/Margot_Asquith
+description: ''
+gutenberg_issued: '2010-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31110'
+  lccn: '22019811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- Description and travel'
+title: My Impressions of America
+url: http://www.gutenberg.org/ebooks/31110
